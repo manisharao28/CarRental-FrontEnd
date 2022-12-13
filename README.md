@@ -12,7 +12,7 @@ https://angular.io/guide/setup-local
 ### `npm install`
 this will install the dependencies
 
-### `ng start`
+### `ng serve`
 
 this will run the application, make sure to run the application on given port nmumbers 
 
